@@ -26,4 +26,4 @@ You can permanently uninstall this package by **further** deleting the directory
 
 ### How to use
 The ``examples`` folder has a simple example. 
-The website designed with ``aioweb`` is <a href="http://101.200.83.188/">hliangzhao.cn</a>.
+The website designed with ``aioweb`` is <a href="https://hliangzhao.cn/">hliangzhao.cn</a>.
